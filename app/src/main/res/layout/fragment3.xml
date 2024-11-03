@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context=".Fragment3">
+    <ImageView
+        android:id="@+id/image"
+        android:layout_width="200dp"
+        android:layout_height="200dp"
+        android:layout_marginTop="100dp"
+        android:layout_marginLeft="100dp"
+        android:layout_marginRight="100dp"
+        android:layout_marginBottom="0dp"
+        android:src="@mipmap/ic_launcher_round"
+        android:scaleType="centerCrop"
+        />
+    <TextView
+        android:id="@+id/description"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="Cette application offre des descriptions des villes marocaines, telles que Tanger, Rabat, Casablanca et Marrakech, en mettant en valeur leur histoire, culture, et attractions. Découvrez les sites emblématiques, les traditions locales et les lieux incontournables pour enrichir votre exploration du Maroc, le tout avec une interface simple et conviviale."
+        android:gravity="center_horizontal"
+        android:padding="10dp"
+        android:textAlignment="center"
+        android:textColor="@color/white"/>
+</LinearLayout>
