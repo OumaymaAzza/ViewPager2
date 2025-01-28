@@ -6,5 +6,5 @@ ViewPager2. L'application comprend une présentation, une liste
 d'éléments, et une section avec une image et du texte, offrant
 ainsi une interface fluide et intuitive pour l'utilisateur.
 
-![image](https://github.com/user-attachments/assets/8115887c-5c31-4e39-a3a5-37cf7c879fe4)
+![WhatsApp Image 2025-01-28 at 12 35 00_84050677](https://github.com/user-attachments/assets/8f992d30-bd9b-4ce9-abd5-362b40632e71)
 
